@@ -1,0 +1,11 @@
+comment_id,author,actual_class,llm_classification,confidence,recommended_action,reason,actual_label
+LZQPQhLyRh80UYxNuaDWhIGQYNQ96IuCg-AYWqNPjpU,Julius NM,1,Spam,High,Remove,The comment contains a link or reference to an external YouTube channel | The comment appears to be self-promotional,Spam
+LZQPQhLyRh_C2cTtd9MvFRJedxydaVW-2sNg5Diuo4A,adam riyati,1,Spam,High,Remove,"Self-promotion | Asking for likes, comments, and subscriptions",Spam
+LZQPQhLyRh9MSZYnf8djyk0gEF9BHDPYrrK-qCczIY8,Evgeny Murashkin,1,Spam,High,Remove,Promotion of external website | Potential phishing or malware link,Spam
+z13jhp0bxqncu512g22wvzkasxmvvzjaz04,ElNino Melendez,1,Legitimate,Medium,Review Manually,"The comment appears to be a promotional statement for the user's channel | The tone is informal and attention-seeking, but not explicitly harmful",Spam
+z13fwbwp1oujthgqj04chlngpvzmtt3r3dw,GsMega,1,Spam,High,Remove,Comment contains a URL | Lack of relevant content,Spam
+LZQPQhLyRh9-wNRtlZDM90f1k0BrdVdJyN_YsaSwfxc,Jason Haddad,1,Spam,High,Remove,The comment contains a URL to an external website | The comment is self-promotional,Spam
+z13lfzdo5vmdi1cm123te5uz2mqig1brz04,ferleck ferles,1,Spam,High,Remove,Self-promotion | Lack of relevance to the video content,Spam
+z122wfnzgt30fhubn04cdn3xfx2mxzngsl40k,Bob Kanowski,0,Legitimate,High,Keep,The comment is a personal statement about the user's action on the video | It does not contain any spammy links or promotional content,Legitimate
+z13ttt1jcraqexk2o234ghbgzxymz1zzi04,Cony,1,Spam,High,Remove,Self-promotion | Lack of relevance to the video,Spam
+z12avveb4xqiirsix04chxviiljryduwxg0,BeBe Burkey,1,Spam,Medium,Remove,Self-promotion | Lack of relevance to the video content,Spam

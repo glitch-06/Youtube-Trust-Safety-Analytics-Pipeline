@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual Environments
+venv/
+.venv/
+env/
+
+# Environment Variables
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# Power BI temporary files
+*.pbix.autosave
+
+# Python cache
+.pytest_cache/
+.mypy_cache/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Output files (optional - remove if you WANT to version these)
+*.log
+
+# Large datasets (optional)
+# data/*.csv
